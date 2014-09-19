@@ -1,4 +1,4 @@
 git_test
 ========
 
-to test git
+preparing the release
