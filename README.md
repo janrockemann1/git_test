@@ -1,4 +1,4 @@
 git_test
 ========
 
-preparing the release
+and the show goes on
